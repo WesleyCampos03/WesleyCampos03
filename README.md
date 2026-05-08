@@ -2,6 +2,8 @@
 
 Sou estudante e desenvolvedor em formação, com foco no desenvolvimento Full Stack. Estou em constante evolução, buscando aprimorar minhas habilidades em programação e construir projetos que reforcem meu aprendizado prático.
 
+Atualmente, curso Bacharelado em Sistemas de Informação no Instituto Federal da Bahia (IFBA), onde venho desenvolvendo conhecimentos em tecnologia, desenvolvimento de software e resolução de problemas.
+
 Atualmente estudo as seguintes tecnologias:
 
 <p align="left">
