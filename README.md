@@ -16,6 +16,6 @@ Meu objetivo é me tornar um desenvolvedor Full Stack completo, capaz de atuar t
 ---
 
 ## Contato
-GitHub: https://github.com/WesleyCampos03  
+Linkedin:   https://www.linkedin.com/in/wesley-campos-64ab762bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Email: wesley.camposaa@gmail.com  
 Telefone: 77981280714
