@@ -1,16 +1,21 @@
-## Hi there 👋
+# Wesley Campos
 
-<!--
-**WesleyCampos03/WesleyCampos03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e desenvolvedor em formação, com foco no desenvolvimento Full Stack. Estou em constante evolução, buscando aprimorar minhas habilidades em programação e construir projetos que reforcem meu aprendizado prático.
 
-Here are some ideas to get you started:
+Atualmente estudo e trabalho com as seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
+
+Meu objetivo é me tornar um desenvolvedor Full Stack completo, capaz de atuar tanto no front-end quanto no back-end, desenvolvendo aplicações eficientes, bem estruturadas e escaláveis.
+
+---
+
+## Contato
+GitHub: https://github.com/WesleyCampos03  
+Email: wesley.camposaa@gmail.com  
+Telefone: 77981280714
