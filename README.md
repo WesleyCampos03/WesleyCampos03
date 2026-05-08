@@ -2,7 +2,7 @@
 
 Sou estudante e desenvolvedor em formação, com foco no desenvolvimento Full Stack. Estou em constante evolução, buscando aprimorar minhas habilidades em programação e construir projetos que reforcem meu aprendizado prático.
 
-Atualmente estudo e trabalho com as seguintes tecnologias:
+Atualmente estudo as seguintes tecnologias:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
